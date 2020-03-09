@@ -1,5 +1,0 @@
-﻿  MyForm.cpp
-c:\users\эмиль\source\repos\project5\myform.h(201): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
-c:\users\эмиль\source\repos\project5\myform.h(214): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
-  Project5.vcxproj -> C:\Users\Эмиль\source\repos\Project5\Debug\Project5.exe
